@@ -1,0 +1,104 @@
+﻿@model PagedList.IPagedList<Hurtownia.Models.Report>
+@using PagedList.Mvc;
+@using PagedList;
+
+</br>
+<div class="page-header">
+    <h1>Reports <small>summary</small></h1>
+</div>
+</br>
+
+
+
+<div class="panel panel-primary">
+    <div class="panel-heading">Info</div>
+    <div class="panel-body">
+        <p></p>
+    </div>
+    @HttpUtility.HtmlEncode(ViewBag.info)
+    <div class="table-responsive">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>ReportId</th>
+                    <th>UserName</th>
+                    <th>Question</th>
+                    <th>Date</th>
+                    <th>Your reply</th>
+                    <th>Options</th>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+               
+                <tbody>
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.ReportId)</td>
+                        <td>@Html.DisplayFor(modelItem => item.user.UserName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.question)</td>
+                        <td>  @Html.DisplayFor(modelItem => item.DateOfCreation.Value)</td>
+                        <td>  @Html.DisplayFor(modelItem => item.reply)</td>
+
+                        <td>
+
+                            @Html.ActionLink("Reply", "Edit", new { id = item.ReportId }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.ReportId })
+
+
+                       </td>
+                    </tr>
+                </tbody>
+            }
+        </table>
+    </div>
+</div>
+
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+
+
+
+
+    @*<table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ReportId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.user.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.message)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.status)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReportId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.user.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.message)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.status)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ReportId }) |
+                    @Html.ActionLink("Reply to User", "Create", new { id = item.reportIdentity }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ReportId })
+                </td>
+            </tr>
+        }
+
+    </table>*@

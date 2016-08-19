@@ -1,0 +1,84 @@
+﻿@model PagedList.IPagedList<Hurtownia.Models.Report>
+@using PagedList.Mvc;
+@using PagedList;
+
+</br>
+<div class="page-header">
+    <h1>Your  <small>reports</small></h1>
+</div>
+</br>
+
+
+
+
+
+<div class="panel panel-primary">
+    <div class="panel-heading">Reports</div>
+    <div class="panel-body">
+        <p></p>
+    </div>
+
+    <div class="table-responsive" style="border:1px solid black">
+        <table class="table ">
+            <thead>
+                <tr>
+                    
+                    <th>Question</th>
+                    <th>Date Creation</th>
+                    <th>Reply</th>
+                    <th>Date Anwser</th>
+                </tr>
+
+          
+                
+                   
+                
+            </thead>
+            @foreach (var item in Model)
+            {
+
+                <tbody>
+                    <tr>
+                        <div class="col-md-offset-1 col-md-4">
+                            <td >
+                                @Html.DisplayFor(modelItem => item.question)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DateOfCreation.Value)
+                            </td>
+                        </div>
+
+                       
+
+                        @if (item.reply == null)
+                        {
+                            <td>  Empty field</td>
+                        }
+                        else
+                        { 
+                             <td> @Html.DisplayFor(modelItem => item.reply)</td>
+                        }
+                        @if (item.DateOfAnwser == null)
+                        { 
+                            <td> Empty field</td>
+                        }
+                        else
+                        { 
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DateOfAnwser.Value)
+                        </td>
+                        }
+                    </tr>
+                </tbody>
+            }
+        </table>
+    </div>
+</div>
+
+
+
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Reports",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+

@@ -1,0 +1,41 @@
+﻿@model Hurtownia.ViewModels.Statystyki
+
+@{
+    ViewBag.Title = "Statystyki";
+    var oc = ViewData["FeaturedProduct"] as Hurtownia.Models.OrderCounter;
+}
+
+<div class="page-header">
+    <h1>OrderItems <small>Statistic</small></h1>
+</div>
+
+<div class="panel panel-primary">
+    <!-- Default panel contents -->
+    <div class="panel-heading">Table</div>
+    <div class="panel-body">
+
+        @if (ViewData["Popular"] != null)
+        {
+
+           
+                    <table>
+
+                        @foreach (Hurtownia.ViewModels.Statystyki statystyki in ViewData["Popular"] as List<Hurtownia.ViewModels.Statystyki>)
+                        {
+                            <tr>
+                                <th>@statystyki.Nazwa</th>
+                                <th> @statystyki.suma</th>
+                                <th> Total  :@oc.Total(statystyki.Nazwa)</th>
+                            </tr>
+                        }
+                    </table>
+              
+
+        }
+  </div>
+    @Html.ActionLink("Clear", "Clear", "Admin");
+            </div>
+            </div>
+
+        </ul>
+

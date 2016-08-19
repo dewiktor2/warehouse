@@ -1,0 +1,87 @@
+﻿@model PagedList.IPagedList<Hurtownia.Models.Category>
+@using PagedList.Mvc;
+@using PagedList;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Category";
+}
+<div class="page-header">
+    <h1>Category <small>list</small></h1>
+</div>
+<p>
+    @if (User.IsInRole("Admin"))
+    {
+        @Html.ActionLink("Create New", "Create")
+    }
+</p>
+
+
+
+
+<div class="panel panel-primary">
+    <div class="panel-heading">Categories</div>
+    <div class="panel-body">
+        <p></p>
+    </div>
+
+
+    <div class="table-responsive">
+        <table class="table" >
+            <tr>
+                <th>
+                    Image
+                </th>
+                <th>
+                    Name
+                </th>
+                <th> Products from category </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+
+
+
+
+
+                        <img src="../../Images/@(item.Image)" alt="" height="100px" width="100px" />
+
+
+
+
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+
+                        @Html.ActionLink("ListOfProducts", "List", new { id = item.Id })
+
+                    </td>
+
+                    <td>
+                        @if (User.IsInRole("Admin"))
+                        {
+                        <th> @Html.ActionLink("Edit", "Edit", new { id = item.Id }) </th>
+                            <th>  @Html.ActionLink("Details", "Details", new { id = item.Id })   </th>
+                            <th>   @Html.ActionLink("Delete", "Delete", new { id = item.Id })     </th>
+                        }
+                        </td>
+                    </tr>
+            }
+
+        </table>
+    </div>
+</div>
+
+        Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+        @Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+
+
+
+      

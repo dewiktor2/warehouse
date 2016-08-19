@@ -1,0 +1,145 @@
+﻿@model Hurtownia.Models.User
+
+@{
+    ViewBag.Title = "Profile";
+}
+
+<div class="page-header">
+    <h1>User <small>profile</small></h1>
+</div>
+
+
+
+<div>
+    
+    <div class="page-header">
+        <h2>Your <small>data</small></h2>
+    </div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Surname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Surname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateOfCreation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOfCreation)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.UserId })  |
+    @Html.ActionLink("Your Orders", "Orders", new { id = Model.UserId }) |
+    @Html.ActionLink("Report", "Report", new { id = Model.UserId }) |
+    @Html.ActionLink("Your Reports", "Reports", new { id = Model.UserId }) |
+    @Html.ActionLink("Your Delivery Address", "DeliveryAddressDetail", new { id = Model.UserId })
+    @*@Html.ActionLink("Back to List", "Index")*@
+</p>
+
+
+@using (Html.BeginForm("Address", "Profile"))
+{
+    @Html.AntiForgeryToken()
+
+
+    <div class="form-horizontal">
+        <div class="page-header">
+            <h3>Your <small>address</small></h3>
+        </div>
+        <hr />
+        @Html.ValidationSummary(true)
+
+
+        <div class="form-group">
+            @Html.Label("Name", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Editor("Name")
+                @Html.ValidationMessage("Name")
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Surname", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Editor("Surname")
+                @Html.ValidationMessage("Surname")
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.Label("City", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Editor("City")
+                @Html.ValidationMessage("City")
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            @Html.Label("Adres", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Editor("Adres")
+                @Html.ValidationMessage("Adres")
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            @Html.Label("Adres1", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Editor("Adres1")
+                @Html.ValidationMessage("Adres1")
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("ZipCode", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Editor("ZipCode")
+                @Html.ValidationMessage("ZipCode")
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class=" btn btn-primary"  />
+            </div>
+        </div>
+    </div>
+}

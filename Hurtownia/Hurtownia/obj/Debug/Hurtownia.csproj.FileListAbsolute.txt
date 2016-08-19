@@ -1,0 +1,704 @@
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Hurtownia.dll.config
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Hurtownia.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Hurtownia.pdb
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Antlr3.Runtime.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\EntityFramework.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Web.Infrastructure.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Newtonsoft.Json.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Owin.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.Helpers.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.Mvc.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.Optimization.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.Razor.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.WebPages.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\WebGrease.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.Helpers.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.Mvc.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.Optimization.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.Razor.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.WebPages.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Newtonsoft.Json.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Antlr3.Runtime.pdb
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\EntityFramework.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\obj\Debug\Hurtownia.csprojResolveAssemblyReference.cache
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\obj\Debug\Hurtownia.dll
+c:\users\stud\documents\visual studio 2013\Projects\Hurtownia\Hurtownia\obj\Debug\Hurtownia.pdb
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.dll.config
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.pdb
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Antlr3.Runtime.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Newtonsoft.Json.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Owin.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.Mvc.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Helpers.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Mvc.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Optimization.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Razor.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\WebGrease.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.Mvc.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Helpers.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Mvc.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Optimization.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Razor.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Newtonsoft.Json.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Antlr3.Runtime.pdb
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.dll
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.pdb
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.dll.config
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.pdb
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Antlr3.Runtime.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Web.Infrastructure.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Newtonsoft.Json.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Owin.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.Mvc.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Helpers.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Mvc.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Optimization.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Razor.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\WebGrease.dll
+E:\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.Mvc.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Helpers.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Mvc.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Optimization.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Razor.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Newtonsoft.Json.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Antlr3.Runtime.pdb
+E:\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.csprojResolveAssemblyReference.cache
+E:\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.dll
+E:\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.pdb
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.dll.config
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.pdb
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Antlr3.Runtime.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Web.Infrastructure.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Newtonsoft.Json.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Owin.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.Mvc.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Helpers.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Mvc.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Optimization.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Razor.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\WebGrease.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.Mvc.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Helpers.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Mvc.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Optimization.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Razor.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Newtonsoft.Json.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Antlr3.Runtime.pdb
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.dll
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.pdb
+G:\stronka\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.csprojResolveAssemblyReference.cache
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.dll.config
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.pdb
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Antlr3.Runtime.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Web.Infrastructure.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Newtonsoft.Json.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Owin.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.Mvc.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Helpers.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Mvc.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Optimization.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Razor.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\WebGrease.dll
+G:\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.Mvc.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Helpers.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Mvc.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Optimization.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Razor.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Newtonsoft.Json.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Antlr3.Runtime.pdb
+G:\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.csprojResolveAssemblyReference.cache
+G:\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.dll
+G:\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.pdb
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.dll.config
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.pdb
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Antlr3.Runtime.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Newtonsoft.Json.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Owin.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.Mvc.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Helpers.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Mvc.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Optimization.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Razor.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\WebGrease.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.Mvc.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Helpers.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Mvc.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Optimization.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Razor.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Newtonsoft.Json.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Antlr3.Runtime.pdb
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.dll
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.pdb
+C:\Users\Stud\Desktop\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.csprojResolveAssemblyReference.cache
+C:\Users\wiktor\Desktop\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.csprojResolveAssemblyReference.cache
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.dll.config
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Hurtownia.pdb
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Antlr3.Runtime.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Web.Infrastructure.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Newtonsoft.Json.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Owin.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.Mvc.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Helpers.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Mvc.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Optimization.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Razor.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\WebGrease.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\PagedList.Mvc.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Helpers.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Mvc.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Optimization.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.Razor.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Newtonsoft.Json.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Antlr3.Runtime.pdb
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\moje\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.csprojResolveAssemblyReference.cache
+G:\moje\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.dll
+G:\moje\Hurtownia\Hurtownia\Hurtownia\obj\Debug\Hurtownia.pdb
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Hurtownia.dll.config
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Hurtownia.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Hurtownia.pdb
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Antlr3.Runtime.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\EntityFramework.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Web.Infrastructure.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Newtonsoft.Json.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Owin.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\PagedList.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\PagedList.Mvc.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Helpers.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Mvc.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Optimization.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Razor.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\WebGrease.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\PagedList.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\PagedList.Mvc.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Helpers.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Mvc.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Optimization.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Razor.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Newtonsoft.Json.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Antlr3.Runtime.pdb
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\EntityFramework.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.csprojResolveAssemblyReference.cache
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.dll
+G:\Controllers\Hurtownia 09-06-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.pdb
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Hurtownia.dll.config
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Hurtownia.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Hurtownia.pdb
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Antlr3.Runtime.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\EntityFramework.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Newtonsoft.Json.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Owin.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\PagedList.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\PagedList.Mvc.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Helpers.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Mvc.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Optimization.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Razor.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\WebGrease.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\PagedList.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\PagedList.Mvc.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Helpers.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Mvc.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Optimization.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.Razor.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Newtonsoft.Json.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Antlr3.Runtime.pdb
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\EntityFramework.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.csprojResolveAssemblyReference.cache
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.dll
+C:\Users\Wiktor\Desktop\Hurtownia 09-06-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.pdb
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.csprojResolveAssemblyReference.cache
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.pdb
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Hurtownia.dll.config
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Hurtownia.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Hurtownia.pdb
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Antlr3.Runtime.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\EntityFramework.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Newtonsoft.Json.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Owin.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\PagedList.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\PagedList.Mvc.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.Helpers.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.Mvc.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.Optimization.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.Razor.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\WebGrease.dll
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\PagedList.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\PagedList.Mvc.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.Helpers.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.Mvc.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.Optimization.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.Razor.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Newtonsoft.Json.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Antlr3.Runtime.pdb
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\EntityFramework.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Wiktor\Desktop\Hurtownia 15-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Hurtownia.dll.config
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Hurtownia.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Hurtownia.pdb
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Antlr3.Runtime.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\EntityFramework.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Newtonsoft.Json.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Owin.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\PagedList.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\PagedList.Mvc.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Helpers.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Mvc.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Optimization.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Razor.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\WebGrease.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\PagedList.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\PagedList.Mvc.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Helpers.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Mvc.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Optimization.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Razor.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Newtonsoft.Json.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Antlr3.Runtime.pdb
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\EntityFramework.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.csprojResolveAssemblyReference.cache
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.dll
+C:\Users\Wiktor\Desktop\Hurtownia 16-08-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.pdb
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Hurtownia.dll.config
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Hurtownia.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Hurtownia.pdb
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Antlr3.Runtime.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\EntityFramework.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Newtonsoft.Json.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Owin.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\PagedList.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\PagedList.Mvc.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Helpers.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Mvc.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Optimization.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Razor.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\WebGrease.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\PagedList.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\PagedList.Mvc.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Helpers.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Mvc.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Optimization.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.Razor.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Newtonsoft.Json.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Antlr3.Runtime.pdb
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\EntityFramework.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\EntityFramework.SqlServer.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.csprojResolveAssemblyReference.cache
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.dll
+C:\Users\Wiktor\Desktop\Hurtownia 01-09-15'2\Hurtownia 16-08-2015\Hurtownia\Hurtownia\obj\Debug\Hurtownia.pdb

@@ -1,0 +1,77 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        </br>
+        <p class="lead">Kategorie</p>
+        <div class="list-group">
+            <a href="http://localhost:49240/Category/List/4" class="list-group-item">Milk Products</a>
+            <a href="http://localhost:49240/Category/List/1" class="list-group-item">Grocery</a>
+            <a href="http://localhost:49240/Category/List/2" class="list-group-item">Alkohol</a>
+            <a href="http://localhost:49240/Category/List/5" class="list-group-item">Home Product</a>
+            <a href="http://localhost:49240/Category/List/6" class="list-group-item">Baby Products</a>
+            <a href="http://localhost:49240/Category/List/7" class="list-group-item">Chemistry</a>
+            <a href="http://localhost:49240/Category/List/2" class="list-group-item">Beverage</a> 
+        </div>
+    </div>
+    </br>
+    <div class="col-md-9">
+        <div class="row carousel-holder">
+            <div class="col-md-12">
+                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                    <div class="thumbnail">
+                        <img class="slide-image" src="../../Images/glowna.jpg" alt="">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4 col-lg-4 col-md-4">
+                <div class="thumbnail">
+                    <img src="../../Images/chocapic.jpg" alt="">
+                    <div class="caption">
+                        <h4 class="pull-right">5,20 zł</h4>
+                        <h4>
+                            <a href=http://localhost:49240/Product/Details/1>Chocapic</a>
+                        </h4>
+                        <p>Tylko teraz -20%<a target="_blank" href="#"> </a></p>
+                        <p> Nie zapomnij sprawdzić reszty naszych produktów</p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-lg-4 col-md-4">
+                <div class="thumbnail">
+                    <img src="../../Images/chupa.jpg" alt="">
+                    <div class="caption">
+                        <h4 class="pull-right">5,10 zł</h4>
+                        <h4>
+                            <a href="http://localhost:49240/Product/Details/6">ChupaChups</a>
+                        </h4>
+                        <p>Chupa chups jest twoj!!!<a target="_blank" href="#"> </a></p>
+                        <p>  -20%</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4 col-lg-4 col-md-4">
+                <div class="thumbnail">
+                    <img src="http://placehold.it/320x150" alt="">
+                    <div class="caption">
+                        <h4 class="pull-right">20 zł</h4>
+                        <h4>
+                            <a href="http://localhost:49240/Product/Details/8">Vodka</a>
+                        </h4>
+                        <p>Zamow teraz <a target="_blank" href="http://localhost:49240/Product/Details/8">chupachupsa </a></p>
+                        <p> Nie zapomnij sprawdzić reszty naszych produktów</p>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+	</div>

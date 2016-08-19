@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Error";
+}
+<div class="page-header">
+    <h2>Order error</h2>
+
+    <div class="row">
+        <div class="col-md-3">
+            </br>
+          <p>
+              We dont have such amount of this products in our stock.
+              Please,go to main site and then cart to update your current order.
+          </p>
+            <p>
+
+                @Html.ActionLink("Main Site", "Index", "Home", null, new { @class = "navbar-brand" })
+            </p>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+

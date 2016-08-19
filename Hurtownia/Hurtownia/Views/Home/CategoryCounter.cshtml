@@ -1,0 +1,57 @@
+﻿
+@model PagedList.IPagedList<Hurtownia.Models.CategoryCounterModelView>
+@using PagedList.Mvc;
+@using PagedList;
+
+
+
+
+
+
+
+
+</br>
+<div class="page-header">
+    <h1>Category <small>Counter</small></h1>
+</div>
+</br>
+<div class="panel panel-primary">
+    <!-- Default panel contents -->
+    <div class="panel-heading">Table</div>
+    <div class="panel-body">
+
+
+
+
+        @foreach (var item in Model)
+        {
+            <div class="row">
+                <div class="col-lg-2">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">Category</h4>
+                        </div>
+                        <div class="panel-body">
+                            @Html.DisplayFor(modelItem => item.Category)
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">Count</h4>
+                        </div>
+                        <div class="panel-body">
+                            @item.Quantity
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        }
+    </div>
+</div>
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("CategoryCounter",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

@@ -1,0 +1,153 @@
+﻿
+@model Hurtownia.Models.CartViewModel
+
+@{
+    ViewBag.Title = "Index";
+    int counter = 0;
+    int index = 0;
+}
+
+<div class="page-header">
+    <h1>Your  <small>basket</small></h1>
+</div>
+
+
+<div class="panel panel-primary">
+    <div class="panel-heading">Cart</div>
+    <div class="panel-body">
+        <p></p>
+    </div>
+
+
+@using(Html.BeginForm("UpdateAll","Cart"))
+{
+   
+    <div class="table-responsive">
+        <table class="table \">
+            <tr>
+                <th>
+                    Image
+                </th>
+                <th>
+                    Product
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th>
+                    Price
+                </th>
+
+                <th>
+                    Delete
+                </th>
+
+            </tr>
+
+
+            @foreach (var item in Model.Cart.carts)
+            {
+                 
+                
+       
+  
+
+                
+                
+                <tr>
+
+                    <td>
+
+
+
+
+
+                        <img src="../../Images/@(item.Product.Image)" alt="" height="100px" width="100px" />
+
+
+
+
+                    </td>
+                    <td>
+                        @item.Product.Name
+                    </td>
+
+                    <td>
+                       
+                        
+                            @*@Html.TextBox("qty", item.Quantity)*@
+                        
+                        @Html.Hidden("Cart.carts.Index", index)
+                        @Html.Hidden("Cart.carts[" + index + "].Product.Id", item.Product.Id)
+                        @Html.TextBox("Cart.carts[" + index + "].Quantity",item.Quantity)
+                       @{index=index+1;}
+
+
+
+                    </td>
+                    <td>
+                        @item.Product.Price
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Remove", "RemoveFromCart", "Cart", new { id = item.Product.Id }, null)
+                    </td>
+
+
+                </tr>
+                
+                
+            }
+
+            <tr>
+                <th> Total  : @Model.Cart.Total().ToString();</th>
+                @foreach (var item in Model.Cart.carts)
+                {
+                    if (item.Quantity > item.Product.Quantity)
+                    {
+                        counter = counter + 1;
+                        <td>
+                            Your typed quantity of   @item.Product.Name is not available!
+
+                        </td>
+                    }
+
+                }
+
+              
+
+
+
+
+
+            </tr>
+
+          <tr>
+             
+
+                      @if (counter == 0)
+                      {
+
+                          @Html.ActionLink("Order", "Zamow") <br />  
+                      }
+                      @Html.ActionLink("Continue", "Index", "Product") <br/>
+
+              <input type="submit" value="Update Quantity" class=" btn btn-primary" />
+                  
+          </tr>
+         
+            
+           
+        </table>
+
+       
+
+    </div>
+     
+    
+}
+
+ 
+
+
+</div>

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Hurtownia.Models.Order>
+
+@{
+    ViewBag.Title = "Products in order";
+}
+
+<h1>Products  <small> orders</small></h1>
+
+<div class="panel panel-primary">
+    <div class="panel-heading">Info</div>
+    <div class="panel-body">
+        <p></p>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>Name</th>
+                    <th>Quantity</th>
+
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+
+                <tbody>
+                    <tr>
+                        <td><img src="../../Images/@(item.Product.Image)" alt="" height="100px" width="100px" /></td>
+                        <td>@Html.DisplayFor(modelItem => item.Product.Name)</td>
+                        <td>@Html.DisplayFor(modelItem => item.quantity)</td>
+                    </tr>
+                </tbody>
+            }
+        </table>
+    </div>
+</div>
+

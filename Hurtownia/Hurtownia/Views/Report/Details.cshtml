@@ -1,0 +1,45 @@
+﻿@model Hurtownia.Models.Report
+
+@{
+    ViewBag.Title = "Details";
+}
+
+</br>
+<div class="page-header">
+    <h1>Reports <small>details</small></h1>
+</div>
+</br>
+
+<div>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.user.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.user.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.message)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.message)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.status)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ReportId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
